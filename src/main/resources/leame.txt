@@ -1,0 +1,15 @@
+1. tiene 6 clases
+
+2 en el restaurante
+
+3. hay dos objetos
+
+4. hay 4 y son: Entrada
+               PlatoFuerte
+               Bebida
+               Postre
+
+5. hay 4 y son: Entrada
+                  PlatoFuerte
+                  Bebida
+                  Postre
